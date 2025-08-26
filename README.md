@@ -1,7 +1,5 @@
 # Politique de confidentialité – BangPig
 
-Dernière mise à jour : [mettre la date]
-
 BangPig respecte et protège la vie privée de ses utilisateurs.  
 Cette politique de confidentialité explique quelles données sont collectées, comment elles sont utilisées et vos droits en tant qu’utilisateur.
 
@@ -53,6 +51,6 @@ Vous pouvez à tout moment :
 
 ## 7. Contact
 Pour toute question concernant cette politique de confidentialité, vous pouvez nous contacter à :  
-📧 [ton_email_de_support@example.com]
+📧 bikoyemmanuel531@gmail.com
 
 ---
